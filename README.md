@@ -2,7 +2,7 @@
 
 N_body_simulation using python and julia packages.
 
-#Three body simulation
+# Three body simulation
 
 ![](media/tbm_50x700_1660x.mp4)
 
