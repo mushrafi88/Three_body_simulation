@@ -1,6 +1,6 @@
 # N_body_simulation
 
-N_body_simulation using python and julia packages.
+3_body_simulation using python.
 
 # Three body simulation(16.6x speed)
 
